@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <p>
       lalalalalalalallalalalalalalalalalalalalla
-      我不太好。////
+      我不太好
       你好
       For a guide and recipes daadadadadadadadadadadadadadadadadad on how to configure / customize this project,<br>
       check out the
